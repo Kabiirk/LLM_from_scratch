@@ -1,6 +1,9 @@
 # LLM_from_scratch
 A collection of Collab notebooks that implements Bigram Language model &amp; GPT (as per "Attention is all you need paper")
 
+The 2 models were trained on a small text corpus (`wizard-of-oz.txt`) and used to predict the next words for a given prompt at the end.
+
+> **Note**: This could be extended to larger corpuses of texts for real-world LLMs, but for this project, I've used a smaller corpus for faster training.
 
 ## Project Structure
 
